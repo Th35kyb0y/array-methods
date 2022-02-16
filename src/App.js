@@ -6,7 +6,7 @@ export default function App() {
   let arr=[4,5,6,9]
   //All JavaScript objects have a toString() method.
 
-  // m1 cnvrt arr to Str
+  // m1 cnvrt arr to Str // it will return without [] , return raw 4,5 ...
   console.log(arr.toString())
   // if we want arr as string we have to first store it , same applies for all methods
  let arrStr= arr.toString()
